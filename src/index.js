@@ -11,6 +11,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store}>
       <App />
+      <div>Sample</div>
     </Provider>
   </React.StrictMode>
 );
